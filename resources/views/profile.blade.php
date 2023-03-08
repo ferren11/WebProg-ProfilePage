@@ -99,7 +99,7 @@
             <div class="column is-7 ml-6">
                 <h5 data-aos="fade-out" class="title has-text-left" style="margin-top:40px;">Kania Agatha</h5>
                 <div class="is-size-6  has-text-left has-text-weight-semibold">
-                    <span> &nbsp|</span>
+                    <span> 2440064702 &nbsp|</span>
                     <span> &nbsp kania.agatha@binus.ac.id</span>
                 </div>
                 <p class="has-text-justified" data-aos="fade-up" style="margin-top:10px;"">
