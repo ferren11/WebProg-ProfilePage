@@ -13,4 +13,4 @@ Kemudian, kita berangkat ke profile page:
 
 Pada tugas ini, saya menambahkan reusable component tag menggunakan ```@include```, ```@extends```, ```@yields```, dan ```@section``` dengan membuat template untuk halaman website serta layout pada header, footer, dan profile per orang. 
 
-Kemudian, saya menerapkan conditional rendering menggunakan ```@if```, ```@else``` dan ```@endif``` pada profile page, tepatnya pada penggunaan template profile (yang terdapat 2 jenis, yaitu foto di sebelah kanan [profile-1] dan foto di sebelah kiri [profile-2]. Selanjutnya, saya juga menerapkan looping rendering menggunakan ```foreach``` untuk menampilkan profile masing-masing anggota pada profile page. 
+Kemudian, saya menerapkan conditional rendering menggunakan ```@if```, ```@else``` dan ```@endif``` pada profile page, tepatnya pada penggunaan template profile (yang terdapat 2 jenis, yaitu foto di sebelah kanan [profile-1] dan foto di sebelah kiri [profile-2]. Selanjutnya, saya juga menerapkan looping rendering menggunakan ```@foreach``` untuk menampilkan profile masing-masing anggota pada profile page. 
